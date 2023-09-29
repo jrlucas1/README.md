@@ -1,5 +1,3 @@
-# README.md
-
 # Hello, I'm João Raul Furtado Lucas 👋
 
 ## 🚀 About Me
