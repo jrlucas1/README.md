@@ -5,13 +5,14 @@ I'm a back-end developer based in Pelotas, Rio Grande do Sul. I have a passion f
 
 ## 🛠 Skills
 - JavaScript
+- React
 - React Native
 - Node.js
 - Java
 - Spring Boot
 - PHP
 - Laravel
-
+  
 ## 📫 How to reach me
 You can reach me at my email joaoraulfurtadolucas@gmail.com or on LinkedIn.
 
