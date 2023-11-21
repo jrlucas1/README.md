@@ -15,6 +15,3 @@ I'm a back-end developer based in Pelotas, Rio Grande do Sul. I have a passion f
   
 ## 📫 How to reach me
 You can reach me at my email joaoraulfurtadolucas@gmail.com or on LinkedIn.
-
-## ⚡ Fun fact
-I like to play games in my free time.
